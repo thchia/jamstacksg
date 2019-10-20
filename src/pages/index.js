@@ -38,7 +38,9 @@ const Arrow = styled("div")`
 `
 const Content = styled("div")`
   text-align: center;
-  padding: 0rem 1rem 1rem 1rem;
+  padding: 0rem 1rem 5rem 1rem;
+  max-width: 1200px;
+  margin: auto;
   a {
     color: inherit;
   }
