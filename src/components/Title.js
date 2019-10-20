@@ -20,7 +20,7 @@ export default Title
 const Container = styled("div")`
   text-align: center;
   color: white;
-  margin: 3rem 1rem 0rem 1rem;
+  margin: 0rem 1rem 0rem 1rem;
   mix-blend-mode: difference;
 `
 const Name = styled(Jumbo)`
